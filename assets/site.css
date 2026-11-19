@@ -112,3 +112,9 @@ a.card.link:hover { border-color: var(--accent); }
 .tiers .price { margin-top: 0; }
 ul.clean.small { font-size: 14.5px; color: var(--muted); margin: 14px 0 6px; }
 @media (max-width: 760px) { .tiers { grid-template-columns: 1fr; } }
+
+footer.site .legal { margin-top: 20px; padding-top: 14px; border-top: 1px solid var(--line); font-size: 12.5px; color: var(--faint, var(--muted)); line-height: 1.6; }
+.prose h2 { font-size: 21px; margin: 32px 0 8px; }
+.prose p, .prose li { max-width: 40em; }
+ol.clean.steps { list-style: decimal; padding-left: 20px; }
+ol.clean.steps li { margin: 6px 0; }
